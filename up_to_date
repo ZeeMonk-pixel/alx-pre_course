@@ -1,1 +1,1 @@
-git fetch <branch url> <branch name>
+git pull origin main
